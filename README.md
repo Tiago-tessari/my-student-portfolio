@@ -1,24 +1,48 @@
-# My Student Portfolio
+# 💻 Portfólio — Tiago Tessari
 
-Projeto realizado usando o auxilio de uma inteligência artificial chamada lovable.ai
+Portfólio pessoal desenvolvido com **HTML, CSS e JavaScript puros**, sem frameworks.
 
-This project was built with [Lovable](https://lovable.dev).
+## 🚀 Sobre
 
-## Build with Lovable
+Site de apresentação pessoal com as seções:
 
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/e2562ba5-0ed4-44f0-824b-30510260321d).
+- **Início** — hero com efeito de digitação
+- **Sobre mim** — resumo profissional
+- **Habilidades** — tecnologias e competências
+- **Formação & Experiência** — linha do tempo acadêmica e profissional
+- **Metas** — objetivos de carreira (curto, médio e longo prazo)
+- **Contato** — e-mail, LinkedIn e telefone
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
+## 🛠️ Tecnologias
 
-## Development
+- HTML5 (semântico e acessível)
+- CSS3 (variáveis customizadas, grid, flexbox, responsivo)
+- JavaScript (vanilla, sem dependências)
 
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
+## 👀 Como visualizar
 
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
-npm run dev
-```
+Basta abrir o arquivo `index.html` no navegador — não há etapa de build.
+
+Ou, com a extensão **Live Server** no VS Code:
+
+1. Instale a extensão Live Server
+2. Clique com o botão direito em `index.html` → "Open with Live Server"
+
+## ✏️ Como personalizar
+
+- **Textos e dados:** edite diretamente `index.html`
+- **Cores e estilo:** as variáveis estão no topo de `css/style.css` (em `:root`)
+- **Efeito de digitação:** altere o array `roles` em `js/script.js`
+- **Foto:** adicione sua foto em `assets/` e insira uma tag `<img>` na seção Sobre
+
+## 💡 Próximos passos (ideias)
+
+- Adicionar uma seção de projetos com cards dos repositórios do GitHub
+- Incluir um formulário de contato funcional
+- Criar uma versão com tema claro/escuro alternável
+
+## 👤 Contato
+
+- **E-mail:** tiagotessari1@gmail.com
+- **LinkedIn:** [tiago-tessari](https://www.linkedin.com/in/tiago-tessari-826042313)
+- **Telefone:** (41) 99920-4376
