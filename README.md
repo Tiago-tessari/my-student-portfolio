@@ -1,6 +1,6 @@
 # My Student Portfolio
 
-seguinte lovable, preciso que voce crie um projeto para meu github, baseado nesse arquivo aqui, meu plano de carreira e meu curriculo, quero um portifolio pessoal em forma de site (html, css e javascript), faça como se eu fosse um aluno e deixe pronto para mim subir no github por gentileza
+Projeto realizado usando o auxilio de uma inteligência artificial chamada lovable.ai
 
 This project was built with [Lovable](https://lovable.dev).
 
